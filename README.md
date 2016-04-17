@@ -8,4 +8,4 @@ Microservice for downloading and processing images using jsonp requests in javas
 
 - It Avoids CORS (Cross Origin Resource Sharing) problems when accessing and dowloading remote resources in javascript.
 
-<a href="https://script.google.com/macros/s/AKfycbyX6ViYZ2IuHEurQXJ--t_UOqRTyQZ9yGeSeLcbiM7ZSVcTujTw/exec?=http://techslides.com/demos/samples/sample.png" target="_blank">Get image data in Base64 format</a>
+<a href="https://script.google.com/macros/s/AKfycbyX6ViYZ2IuHEurQXJ--t_UOqRTyQZ9yGeSeLcbiM7ZSVcTujTw/exec?url=http://techslides.com/demos/samples/sample.png" target="_blank">Get image data in Base64 format</a>
