@@ -1,4 +1,4 @@
-# proxy-image-jsonp
+# proxy-image-microservice
 
 Microservice for downloading and processing images using jsonp requests in javascript.
 
