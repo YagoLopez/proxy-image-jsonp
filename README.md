@@ -10,6 +10,6 @@ Microservice for downloading and processing images using jsonp requests in javas
 
 <b>Demostration:</b>
 
-<a href="http://techslides.com/demos/samples/sample.png" target="_blank">Url of the image</a>
+- <a href="http://techslides.com/demos/samples/sample.png" target="_blank">Url of the image</a>
 
-<a href="https://script.google.com/macros/s/AKfycbyX6ViYZ2IuHEurQXJ--t_UOqRTyQZ9yGeSeLcbiM7ZSVcTujTw/exec?url=http://techslides.com/demos/samples/sample.png" target="_blank">Get image data in Base64 format</a>
+- <a href="https://script.google.com/macros/s/AKfycbyX6ViYZ2IuHEurQXJ--t_UOqRTyQZ9yGeSeLcbiM7ZSVcTujTw/exec?url=http://techslides.com/demos/samples/sample.png" target="_blank">Get image data in Base64 format</a>
